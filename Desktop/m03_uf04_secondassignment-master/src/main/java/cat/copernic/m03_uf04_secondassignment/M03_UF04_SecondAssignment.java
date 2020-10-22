@@ -17,6 +17,7 @@ public class M03_UF04_SecondAssignment {
         Dispositivos dispositivo3 = new Tablet("iPad Air", "Tamaño de 9,7' y cuenta con una resolución de 2048 X 1536.", 650.99);
         Dispositivos dispositivo4 = new Portatil("Asus", "Portátil de 17' con un Intel Celeron y 4GB de RAM", 349.99);
         
+        
         dispositivo4.Reset();
         dispositivo3.Reset();
         //Aquí no dejará
