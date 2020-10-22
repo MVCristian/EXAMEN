@@ -47,6 +47,10 @@ public abstract class Dispositivos implements Conectable {
     public void desconecta() {
         System.out.println("Desconectando...");
     }
+
+    void Reset() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
     
     
